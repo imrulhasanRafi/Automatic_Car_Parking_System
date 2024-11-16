@@ -62,7 +62,7 @@ An intelligent, automated parking management system designed to simplify vehicle
 
 #### Clone the Repository:
 ```bash
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Automatic_Car_Parking_System
 ```
 
 #### Upload Code:
