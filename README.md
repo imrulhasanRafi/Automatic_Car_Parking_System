@@ -1,8 +1,9 @@
-Here's the README content formatted for easy pasting:
-
 ---
 
 # Automatic Car Parking System 🚗
+
+![Assembled System](https://res.cloudinary.com/dua4uga2s/image/upload/v1731773333/vdlcpiapal06rez5lnd7.png)
+
 
 An intelligent, automated parking management system designed to simplify vehicle entry and exit using **Arduino Uno**, **IR sensors**, and a **servo motor**. This system efficiently tracks parking availability and provides real-time updates to users.
 
@@ -88,10 +89,7 @@ git clone https://github.com/Automatic_Car_Parking_System
 ## 🖼️ Visual Overview
 
 ### 1. Circuit Diagram
-*Include a professionally labeled image of your circuit diagram here.*
-
-### 2. Assembled System
-*Add a photo of your complete system setup here.*
+![Circuit Diagram](https://res.cloudinary.com/dua4uga2s/image/upload/v1731772907/q8egyttql3b3c8b39g7r.jpg)
 
 ---
 
