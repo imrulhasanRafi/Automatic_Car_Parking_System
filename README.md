@@ -1,5 +1,3 @@
----
-
 # Automatic Car Parking System 🚗
 
 ![Assembled System](https://res.cloudinary.com/dua4uga2s/image/upload/v1731773333/vdlcpiapal06rez5lnd7.png)
@@ -122,5 +120,3 @@ Contributions are welcome! If you'd like to enhance the system:
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as needed.
-
----
